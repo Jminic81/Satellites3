@@ -29,7 +29,7 @@ __Figure 2:
 
 Since 1957, there have been 7136 satellite launches.  Per the dataset, there are over 1400 active satellites that orbit the Earth but over thousands of inactive satellites.  Although satellite dry mass (original mass minus fuel and launch vehicle) can range from 10 kgs to 10,000 kgs, the most common is about 500 kgs.  
 
-Satellites are launched into a specific orbit, to avoid collisions with other satellites. 
+Satellites are launched into a specific orbit, to avoid collisions with other satellites.  Most are in Low Earth Orbit (LEO). 
 
 __Table 1:  Classes of satellite orbits and height above Earth(*Ref 5*)__
 
@@ -57,7 +57,7 @@ __Table 2:  Estimated quantity and size of space junk pieces and particles (*Ref
 | Millions     | <  1 cm   |
 
 It can be argued that space is vast but more than half of all satellites and a large percentage of space junk is found in 
-LEO (Low Earth Orbit) which is 1,200 miles or less above the Earth.  And satellites in LEO typically have relatively short life spans:  
+LEO which is 1,200 miles or less above the Earth.  And satellites in LEO typically have relatively short life spans:  
 five-seven years.  
 
 And yes, debris often falls to earth.  Most matter is incinerated by Earth’s atmosphere but on average once per day something falls 
