@@ -1,6 +1,6 @@
 ### **The Danger of Space Junk:  Analysis of Dataset "Active Satellites in Orbit around Earth"** 
 
-#### **Introduction**
+#### Introduction
 
 Junk!  It’s a by-product of progress.  We build, consume, throw away.  Decay is visible every day in the form of personal trash, and 
 on a larger scale in abandoned buildings, junkyards, and landfills.  But what about what is not seen every day but is there in the 
