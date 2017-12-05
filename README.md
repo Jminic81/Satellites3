@@ -6,15 +6,15 @@ Junk!  It’s a by-product of progress.  We build, consume, throw away.  Decay i
 on a larger scale in abandoned buildings, junkyards, and landfills.  But what about what is not seen every day but is there in the 
 skies, in the form of “space junk” (*Ref 1*) and where did it come from?  Satellites!  
 
-#### **Dataset Origin**
+#### Dataset Origin
 
 The dataset "Active Satellites in Orbit around Earth" (*Ref 2*) is from the Satellite Database, produced by Teri Grimwood.  The Satellite Database is updated quarterly, free and publically accessible.  The data are collected from corporate, scientific, government, military, non-governmental, and academic websites available to the public.  It was last updated in July 2016.  
 
-#### **Dataset Significance and Overview**
+#### Dataset Significance and Overview
 
 The first satellite, Sputnik, was launched by Russia in 1957(*Ref 3*).  That mission proved satellite viability and utility for radio telecommunications.  The number of launches has increased every year and over 50 countries now own or operate satellites.
 
-__Figure 1:__  
+_Figure 1:_  
 
 ![alt text](https://github.com/Jminic81/Satellites3/blob/master/Country.png)
 
@@ -22,7 +22,7 @@ In 1976, a United Nations protocal was established to register all objects launc
 
 The popularity of cell phones that function by instantly bouncing a signal off a satellite have led to roughly half of all active satellites used for communication but a large number are used to observe Earth (for example, weather).  
 
-__Figure 2:__  
+_Figure 2:_  
 
 ![altext](https://github.com/Jminic81/Satellites3/blob/master/pie1.png)
 
@@ -31,7 +31,7 @@ Since 1957, there have been 7136 satellite launches.  Per the dataset, there are
 
 Satellites are launched into a specific orbit, to avoid collisions with other satellites.  Most are in Low Earth Orbit (LEO). 
 
-__Table 1:  Classes of satellite orbits and height above Earth(*Ref 5*)__
+_Table 1:  Classes of satellite orbits and height above Earth(*Ref 5*)_
 
 |__Abbreviation__  |__Meaning__                  |__Miles above the Earth__    | 
 |:-----------------|----------------------------:|:----------------------------|
@@ -40,7 +40,7 @@ __Table 1:  Classes of satellite orbits and height above Earth(*Ref 5*)__
 | GEO              | Geo-Stationary Earth Orbit  |  22,000                     |
 | HEO, Elliptical  | High/Elliptical Earth Orbit |  22,000                     |
 
-__Figure 3:__  
+_Figure 3:_  
 
 ![altext](https://github.com/Jminic81/Satellites3/blob/master/Orbit.png)
 
@@ -48,7 +48,7 @@ __Figure 3:__
 
 All satellites have limited life and most simply remain in orbit long after their utility has expired.  Launch vehicles and propulsion systems are left behind, accidental or intentional explosions of satellites occur, and collisions with other satellites generate debris and compound the amount of space junk.  A tiny chip of metal or a fleck of paint might seem innocuous but traveling at four miles per second in LEO causes great damage when impacting a space vehicle.  
 
-__Table 2:  Estimated quantity and size of space junk pieces and particles (*Ref 1*)__
+_Table 2:  Estimated quantity and size of space junk pieces and particles (*Ref 1*)_
 
 |__Quantity__  |__Size__   | 
 |:-------------|-----------|
