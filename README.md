@@ -44,7 +44,7 @@ _Figure 3:_
 
 ![altext](https://github.com/Jminic81/Satellites3/blob/master/Orbit.png)
 
-#### Propogation and Danger of Space Junk
+#### Propagation and Danger of Space Junk
 
 All satellites have limited life and most simply remain in orbit long after their utility has expired.  Launch vehicles and propulsion systems are left behind, accidental or intentional explosions of satellites occur, and collisions with other satellites generate debris and compound the amount of space junk.  A tiny chip of metal or a fleck of paint might seem innocuous but traveling at four miles per second in LEO causes great damage when impacting a space vehicle.  
 
