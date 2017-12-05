@@ -40,11 +40,9 @@ __Table 1:  Classes of satellite orbits and height above Earth(*Ref 5*)__
 | GEO              | Geo-Stationary Earth Orbit  |  22,000                     |
 | HEO, Elliptical  | High/Elliptical Earth Orbit |  22,000                     |
 
-__Figure 3:  Satellite class of orbit
+__Figure 3:  
 
-![altext](
-
-
+![altext](https://github.com/Jminic81/Satellites3/blob/master/Orbit.png)
 
 #### Propogation and Danger of Space Junk
 
