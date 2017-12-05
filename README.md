@@ -14,7 +14,7 @@ The dataset "Active Satellites in Orbit around Earth" (*Ref 2*) is from the Sate
 
 The first satellite, Sputnik, was launched by Russia in 1957(*Ref 3*).  That mission proved satellite viability and utility for radio telecommunications.  The number of launches has increased every year and over 50 countries now own or operate satellites.
 
-__Figure 1:_  
+__Figure 1:__  
 
 ![alt text](https://github.com/Jminic81/Satellites3/blob/master/Country.png)
 
@@ -22,7 +22,7 @@ In 1976, a United Nations protocal was established to register all objects launc
 
 The popularity of cell phones that function by instantly bouncing a signal off a satellite have led to roughly half of all active satellites used for communication but a large number are used to observe Earth (for example, weather).  
 
-__Figure 2:_  
+__Figure 2:__  
 
 ![altext](https://github.com/Jminic81/Satellites3/blob/master/pie1.png)
 
@@ -40,7 +40,7 @@ __Table 1:  Classes of satellite orbits and height above Earth(*Ref 5*)__
 | GEO              | Geo-Stationary Earth Orbit  |  22,000                     |
 | HEO, Elliptical  | High/Elliptical Earth Orbit |  22,000                     |
 
-__Figure 3:_  
+__Figure 3:__  
 
 ![altext](https://github.com/Jminic81/Satellites3/blob/master/Orbit.png)
 
