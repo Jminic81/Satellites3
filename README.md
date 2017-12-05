@@ -8,7 +8,7 @@ skies, in the form of “space junk” (*Ref 1*) and where did it come from?  Sa
 
 #### Dataset Origin
 
-The dataset "Active Satellites in Orbit around Earth" (*Ref 2*) hails from the Satellite Database, produced by Teri Grimwood.  The Satellite Database is updated quarterly, free and publically accessible.  The data are collected from corporate, scientific, government, military, non-governmental, and academic websites available to the public.  It was last updated in July 2016.  
+The dataset "Active Satellites in Orbit around Earth" (*Ref 2*) is from the Satellite Database, produced by Teri Grimwood.  The Satellite Database is updated quarterly, free and publically accessible.  The data are collected from corporate, scientific, government, military, non-governmental, and academic websites available to the public.  It was last updated in July 2016.  
 
 #### Dataset Significance and Overview
 
