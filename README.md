@@ -66,6 +66,10 @@ missions and new satellite launches.
 
 Ironically enough, satellites have been launched to track space junk.  An international task force is evaluating clean-up methods. Unsanctioned proposals include giant nets, laser cannons, and magnets. 
 
+### Analysis
+
+The Jupyter notebook "Satellites" in ths repository contains the raw data analysis and visualizations *(Ref. 6)*
+
 #### References:
 
 1.	https://www.space.com/16518-space-junk.html
@@ -73,3 +77,4 @@ Ironically enough, satellites have been launched to track space junk.  An intern
 3.  http://www.explainthatstuff.com/satellites.html
 4.  http://planet4589.org/space/un/stat.txt
 5.  http://www.swiftutors.com/types-of-satellite-orbit
+6.  https://www.kaggle.com/jminic81/data-analysis-and-visualization/editnb
