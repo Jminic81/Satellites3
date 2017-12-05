@@ -16,7 +16,7 @@ The first satellite, Sputnik, was launched by Russia in 1957(*Ref 3*).  That mis
 
 __Figure 1:  Country of ownership__
 
-![alt text](https://github.com/Jminic81/Satellite3/blob/master/Country.png)
+![alt text](https://github.com/Jminic81/Satellites3/dogbar.png)
 
 In 1976, a United Nations protocal was established to register all objects launched into space.  With the evolution of international space law, space object registration was needed to identify which countries/entities were responsible/liable for issues related to space objects.  The dataset contains a column summarizing UN Registry; however, "NR" appears in 28% of the entries.  A firm explanation for "NR" was not found; however, it is strongly suspected it means “Not Registered” as 8% of all satellites launched since 1957 (Total = 7136) have not been registered with the United Nations.  The reason for lack of registration is believed to be unintentional transmission/receipt errors (*Ref 4*).
 
