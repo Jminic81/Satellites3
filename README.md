@@ -18,7 +18,7 @@ __Figure 1:
 
 ![alt text](https://github.com/Jminic81/Satellites3/blob/master/Country.png)
 
-In 1976, a United Nations protocal was established to register all objects launched into space.  With the evolution of international space law, space object registration was needed to identify which countries/entities were responsible/liable for issues related to space objects.  The dataset contains a column summarizing UN Registry; however, "NR" appears in 28% of the entries.  A firm explanation for "NR" was not found; however, it is strongly suspected it means “Not Registered” as 8% of all satellites launched since 1957 (Total = 7136) have not been registered with the United Nations.  The reason for lack of registration is believed to be unintentional transmission/receipt errors (*Ref 4*).
+In 1976, a United Nations protocal was established to register all objects launched into space.  With the evolution of international space law, registration was needed to identify which countries/entities were responsible/liable for issues related to space objects.  The dataset contains a column summarizing UN Registry; however, "NR" appears in 28% of the entries.  A firm explanation for "NR" was not found; however, it is strongly suspected it means “Not Registered” as 8% of all satellites launched since 1957 (Total = 7136) have not been registered with the United Nations.  The reason for lack of registration is believed to be unintentional transmission/receipt errors (*Ref 4*).
 
 The popularity of cell phones that function by instantly bouncing a signal off a satellite have led to roughly half of all active satellites used for communication but a large number are used to observe Earth (for example, weather).  
 
