@@ -1,16 +1,16 @@
 ### **The Danger of Space Junk:  Analysis of Dataset "Active Satellites in Orbit around Earth"** 
 
-#### Introduction
+#### **Introduction**
 
 Junk!  It’s a by-product of progress.  We build, consume, throw away.  Decay is visible every day in the form of personal trash, and 
 on a larger scale in abandoned buildings, junkyards, and landfills.  But what about what is not seen every day but is there in the 
 skies, in the form of “space junk” (*Ref 1*) and where did it come from?  Satellites!  
 
-#### Dataset Origin
+#### **Dataset Origin**
 
 The dataset "Active Satellites in Orbit around Earth" (*Ref 2*) is from the Satellite Database, produced by Teri Grimwood.  The Satellite Database is updated quarterly, free and publically accessible.  The data are collected from corporate, scientific, government, military, non-governmental, and academic websites available to the public.  It was last updated in July 2016.  
 
-#### Dataset Significance and Overview
+#### **Dataset Significance and Overview**
 
 The first satellite, Sputnik, was launched by Russia in 1957(*Ref 3*).  That mission proved satellite viability and utility for radio telecommunications.  The number of launches has increased every year and over 50 countries now own or operate satellites.
 
