@@ -19,7 +19,7 @@ for 28% of the entries.  A firm explanation for "NR" was not found; however, it 
 
 The first satellite, Sputnik, was launched by Russia in 1957.  That mission proved satellite viability and utility for radio telecommunications.  The number of launches has increased every year and over 50 countries now own or operate satellites.
 
-Figure 1:  
+![alt text](https://github.com/Jminic81/Satellites3/blob/master/Country.png)
 
 The popularity of cell phones that function by instantly bouncing a signal off a satellite have led to roughly half of all active satellites used for communication.  
 
