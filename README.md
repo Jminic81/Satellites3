@@ -14,7 +14,7 @@ The dataset "Active Satellites in Orbit around Earth" (*Ref 2*) hails from the S
 
 The first satellite, Sputnik, was launched by Russia in 1957(*Ref 3*).  That mission proved satellite viability and utility for radio telecommunications.  The number of launches has increased every year and over 50 countries now own or operate satellites.
 
-__Figure 1:  Country of ownership__
+__Figure 1:  
 
 ![alt text](https://github.com/Jminic81/Satellites3/blob/master/Country.png)
 
@@ -22,9 +22,9 @@ In 1976, a United Nations protocal was established to register all objects launc
 
 The popularity of cell phones that function by instantly bouncing a signal off a satellite have led to roughly half of all active satellites used for communication but a large number are used to observe Earth (for example, weather).  
 
-__Figure 2:  Satellite purpose__ 
+__Figure 2:  
 
-
+![altext](https://github.com/Jminic81/Satellites3/blob/master/pie1.png)
 
 
 Since 1957, there have been 7136 satellite launches.  Per the dataset, there are over 1400 active satellites that orbit the Earth but over thousands of inactive satellites.  Although satellite dry mass (original mass minus fuel and launch vehicle) can range from 10 kgs to 10,000 kgs, the most common is about 500 kgs.  
@@ -42,7 +42,7 @@ __Table 1:  Classes of satellite orbits and height above Earth(*Ref 5*)__
 
 __Figure 3:  Satellite class of orbit
 
-
+![altext](
 
 
 
